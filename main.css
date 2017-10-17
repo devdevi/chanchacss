@@ -81,4 +81,50 @@
   right:250px;
 }
 
+.cuadro1{
+  position: relative; 
+  margin :50px;
+  background-color:red;
+  width:400px;
+  height: 400px;
+
+}
+.cuadro2{
+  position: absolute; 
+  margin :100px;
+  background-color:green;
+  width:200px;
+  height:200px;
+
+}
+.cuadro3{
+  position:absolute; 
+  background-color:black;
+  width:100px;
+  height: 100px;
+}
+
+
+.box1{
+  position: relative; 
+  margin :50px;
+  background-color:red;
+  width:400px;
+  height: 400px;
+
+}
+.box2{
+  position: absolute; 
+  margin :100px;
+  background-color:green;
+  width:200px;
+  height:200px;
+
+}
+.box3{
+  position:absolute; 
+  background-color:black;
+  width:100px;
+  height: 100px;
+}
 
